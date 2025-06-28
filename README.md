@@ -6,6 +6,8 @@ A web-based projection generation system for Computed Axial Lithography (CAL) th
 
 This application implements a Radon transform-based projection generator for volumetric 3D printing using Computed Axial Lithography. The system generates the angular projection images needed for CAL 3D printing from voxelized 3D models.
 
+![Screenshot of the website](./media/page-screenshot.png)
+
 ## Background
 
 The initial ground point was built using Claude Opus 4 to implement the algorithm found in the research paper:
